@@ -1,10 +1,10 @@
 Metadata-Version: 1.0
 Name: gym-abdul
 Version: 0.0.1
-Summary: UNKNOWN
-Home-page: UNKNOWN
-Author: UNKNOWN
-Author-email: UNKNOWN
-License: UNKNOWN
-Description: UNKNOWN
-Platform: UNKNOWN
+Summary: Gym Environment: Find intersection of system of equations
+Home-page: https://github.com/ashaltu/gym-abdul
+Author: Abdul Shaltu
+Author-email: bottlebrain@outlook.com
+License: MIT
+Description: OpenAI Gym Environment
+Platform: Python
